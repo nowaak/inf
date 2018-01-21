@@ -1,0 +1,9 @@
+1. Komunikat k1 zawiera tyle samo informacji co komunikat k2. Iloœæ informacji wynosi 4 bity.
+2. H=n
+3. k1 11
+   k2 10
+   k3 00
+   k4 011
+   k5 010
+
+R=0,4195

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sklep [
+<!ELEMENT sklep (elektronika, zywnosc, odziez)>
+<!ELEMENT elektronika (telewizory, gry, kable)>
+<!ELEMENT zywnosc (pieczywo, mieso, slodycze)>
+<!ELEMENT odziez (bluzy, spodnie, bielizna)>
+<!ATTLIST elektornika domain CDATA "">
+<!ATTLIST zywnosc domain CDATA "">
+<!ATTLIST odziez domain CDATA "">
+<!ELEMENT telewizory (#PCDATA)>
+<!ELEMENT gry (#PCDATA)>
+<!ELEMENT kable (#PCDATA)>
+<!ELEMENT pieczywo (#PCDATA)>
+<!ELEMENT mieso (#PCDATA)>
+<!ELEMENT slodycze (#PCDATA)>
+<!ELEMENT bluzy (#PCDATA)>
+<!ELEMENT spodnie (#PCDATA)>
+<!ELEMENT bielizna (#PCDATA)>
+]>
+<sklep>
+          <elektronika>
+                     <telewizory>polka z telewizorami</telewizory>
+                     <gry>polka z grami</gry>
+                     <kable>polka z grami</kable>
+           </elektronika>
+           <zywnosc>
+                     <pieczywo>polka z pieczywem</pieczywo>
+                     <mieso>polka z miesem</mieso>
+                     <slodycze>polka ze slodyczami</slodycze>
+           </zywnosc>
+           <odziez>
+                      <bluzy>polka z bluzami</bluzy>
+                      <spodnie>polka ze spodniami</spodnie>
+                      <bielizna>polka z bielizn¹</bielizna>
+            </odziez>
+</sklep>

@@ -1,0 +1,8 @@
+1.
+Stopień kompresji pliku tekstowego będzie najmniejszy, kiedy będą w nim występować wielokrotnie takie same znaki np. "aaa", "bbb".
+2.
+Stopień kompresji pliku tekstowego będzie największy, kiedy będą w nim występować różne znaki specjalne np. "ąćł"
+3.
+Stopień kompresji pliku BMP algorytmem JPEG będzie największy, kiedy plik będzie jednego koloru np. białe zdjęcie.
+4.
+Stopień kompresji pliku BMP algorytmem JPEG będzie najmniejszy, kiedy w pliku będzie występować wiele kolorów np. zdjęcie ogniska/krajobraz

@@ -1,0 +1,34 @@
+1.1
+1:    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+2:    link/ether 08:00:27:93:e5:72 brd ff:ff:ff:ff:ff:ff
+1.2
+1:    inet 127.0.0.1/8 
+2:    inet 150.254.78.29/26
+   Adres IP nie zawsze jest taki sam jak na stronie https://whatismyipaddress.com/
+
+2. Adres serwera google.com: 172.217.16.14
+   Adres serwera amu.edu.pl: 150.254.65.253
+   Adres serwera wmi.amu.edu.pl: 150.254.78.3
+
+3. 
+ 1  gw-v2.core.wmi.amu.edu.pl (150.254.78.1) -Institute of Bioorganic Chemistry Polish 
+    Academy of Science, Poznan Supercomputing and Networ, Poznan  
+ 2  fw.core.wmi.amu.edu.pl (150.254.76.33) - Institute of Bioorganic Chemistry Polish 
+    Academy of Science, Poznan Supercomputing and Networ, Poznan
+ 3  amur.amu.edu.pl (150.254.115.57) - Institute of Bioorganic Chemistry Polish 
+    Academy of Science, Poznan Supercomputing and Networ, Poznan
+ 4  do-pozman.amu.edu.pl (150.254.116.6) - Institute of Bioorganic Chemistry Polish 
+    Academy of Science, Poznan Supercomputing and Networ, Poznan
+ 5  pozmangw.amu.edu.pl (150.254.115.5) - Institute of Bioorganic Chemistry Polish
+    Academy of Science, Poznan Supercomputing and Networ, Poznan
+ 6  z-pozmana.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.17) - Institute of 
+ Bioorganic Chemistry Polish Academy of Science, Poznan Supercomputing and Networ, Poznan   
+ 7  pionier.mx1.poz.pl.geant.net (62.40.125.245) - GEANT Limited, Londyn 
+ 8  ae3.mx1.fra.de.geant.net (62.40.98.130) - GEANT Limited, Londyn 
+ 9  ae1.mx1.ams.nl.geant.net (62.40.98.129) - GEANT Limited, Londyn
+10  internet2-gw.mx1.ams.nl.geant.net (62.40.124.47) - GEANT Limited, Londyn
+11  nyc-9208-I2-NEWY.nysernet.net (199.109.5.1) - NYSERNet, Syracuse, New York
+12  199.109.5.6 (199.109.5.6) - NYSERNet, Syracuse, New York
+13  DMZGWB-PTP-EXTGWA.NET.NYU.EDU (128.122.254.67) - New York University, New York
+
+
